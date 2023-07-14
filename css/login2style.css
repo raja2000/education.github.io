@@ -42,7 +42,9 @@ body {
 
 .toggle-btn
 {
-	padding: 10px 30px;
+	font-size: x-large;
+	color:red;
+	padding: 30px 150px;
 	cursor: pointer;
 	background: transparent;
 	position: relative;
