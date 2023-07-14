@@ -42,14 +42,14 @@ body {
 
 .toggle-btn
 {
-	font-size: x-large;
-	color:red;
 	padding: 30px 150px;
 	cursor: pointer;
 	background: transparent;
 	position: relative;
 	border: 0;
 	outline: none;
+	font-size: x-large;
+	color:red;
 }
 
 #btn
